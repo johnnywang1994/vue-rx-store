@@ -1,0 +1,18 @@
+{
+  "name": "vue-rx-store",
+  "version": "1.0.0",
+  "description": "A state management library for vue-rx, based on Rxjs BehaviorSubject.",
+  "main": "index.js",
+  "repository": "https://github.com/johnnywang1994/vue-rx-store.git",
+  "keywords": [
+    "vue",
+    "vue-rx",
+    "rxjs"
+  ],
+  "author": "johnnywang",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^6.5.5",
+    "vue-rx": "^6.2.0"
+  }
+}
